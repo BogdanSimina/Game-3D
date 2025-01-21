@@ -1,4 +1,4 @@
-# Game-3D
+# Obstacle Dodging and Collecting Game - Unity
 Description:
 This project is a game developed in Unity where the player controls a ball on a game board. The goal is to avoid moving obstacles and collect the four letters “ETTI” in the correct order. The game challenges the player’s navigation and coordination skills, making it suitable for demonstrations and learning practical Unity concepts.
 
